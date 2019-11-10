@@ -61,8 +61,8 @@
     <td colspan="4">
     <ul>
       <p></p>
-      <li><a href="https://github.com/lionelcub/building_pipeline_for_hacker_news_search_API/blob/master/building_pipeline_for_hacker_news_search_API/csv/hn_stories.csv" target="_blank">Hacker News Stories.</a></li>
-      <li><a href="https://github.com/lionelcub/building_pipeline_for_hacker_news_search_API/blob/master/building_pipeline_for_hacker_news_search_API/csv/hn_stories_cleaned.csv" target="_blank">Cleaned Hacker News Stories.</a></li>
+      <li><a href="https://github.com/lionelcub/building_pipeline_for_hacker_news_search_API/blob/master/csv/hn_stories.csv" target="_blank">Hacker News Stories.</a></li>
+      <li><a href="https://github.com/lionelcub/building_pipeline_for_hacker_news_search_API/blob/master/csv/hn_stories_cleaned.csv" target="_blank">Cleaned Hacker News Stories.</a></li>
     </ul>
     </td>
   </tr>
