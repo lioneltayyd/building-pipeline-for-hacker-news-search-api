@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td colspan="4">
-      <a href="https://nbviewer.jupyter.org/github/lionelcub/building_pipeline_for_hacker_news_search_API/blob/master/building_pipeline_for_hacker_news_search_API.ipynb">Applying API Requests On Hacker News Search API.</a> 
+      <a href="https://nbviewer.jupyter.org/github/lionelcub/building_pipeline_for_hacker_news_search_API/blob/master/building_pipeline_for_hacker_news_search_API.ipynb">Building Pipeline For Hacker News Search API.</a> 
       (Link to Notebook Viewer)
     </td>
   </tr>
