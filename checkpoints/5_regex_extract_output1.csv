@@ -3,7 +3,7 @@ objectID,title,created_at,points,num_comments,domain,type
 21494673,Viral Tweet About Apple Card Leads to Goldman Sachs Probe,2019-11-09 00:00:00+00:00,129,148,www.bloomberg.com,
 21494295,Narcissistic CEOs weaken collaboration and integrity,2019-11-09 00:00:00+00:00,150,80,www.gsb.stanford.edu,
 21493761,"Fast Markov chains in ~20 lines of sh, grep, cut and Awk",2019-11-09 00:00:00+00:00,292,34,0x0f0f0f.github.io,
-21493410,Show HN: LuaJIT assembler/assembly language for direct bytecode programming,2019-11-09 00:00:00+00:00,127,20,github.com,show
+21493410,Show HN: LuaJIT assembler/assembly language for direct bytecode programming,2019-11-09 00:00:00+00:00,127,20,github.com,Show
 21492880,Haskell and Rust,2019-11-09 00:00:00+00:00,131,106,www.fpcomplete.com,
 21492782,"The FCC Has Fined Robocallers $208M, Collected $6,790",2019-11-09 00:00:00+00:00,750,342,www.wsj.com,
 21492631,Effects of Vitamin D and Omega-3 Fatty Acid on Biomarkers of Inflammation,2019-11-09 00:00:00+00:00,118,38,clinchem.aaccjnls.org,
@@ -43,18 +43,18 @@ objectID,title,created_at,points,num_comments,domain,type
 21483506,Blending complex systems made my latency 10x higher,2019-11-08 00:00:00+00:00,199,82,srvaroa.github.io,
 21483337,"Ransomware, Data Breaches at Hospitals Tied to Uptick in Fatal Heart Attacks",2019-11-08 00:00:00+00:00,108,58,krebsonsecurity.com,
 21483256,Bad JSON Parsers,2019-11-08 00:00:00+00:00,210,184,github.com,
-21483252,Show HN: Python package and CLI to generate stylistic word clouds,2019-11-08 00:00:00+00:00,104,16,github.com,show
+21483252,Show HN: Python package and CLI to generate stylistic word clouds,2019-11-08 00:00:00+00:00,104,16,github.com,Show
 21482993,Making Wrong Code Look Wrong (2005),2019-11-08 00:00:00+00:00,106,46,www.joelonsoftware.com,
 21482975,Gitlab's Director of Risk and Global Compliance Resigns,2019-11-08 00:00:00+00:00,282,186,www.reddit.com,
 21482937,"NASA Flew Gas Detectors Above California, Found ‘Super Emitters’",2019-11-08 00:00:00+00:00,385,189,www.bloomberg.com,
 21482904,Project Silica proof-of-concept stores movie on quartz glass,2019-11-08 00:00:00+00:00,184,97,news.microsoft.com,
-21482899,Ask HN: Starting an Anonymous Blog in 2019?,2019-11-08 00:00:00+00:00,131,80,,ask
+21482899,Ask HN: Starting an Anonymous Blog in 2019?,2019-11-08 00:00:00+00:00,131,80,,Ask
 21482372,Adversarial design printed on a shirt to fool object recognition algorithms,2019-11-08 00:00:00+00:00,130,69,www.vice.com,
 21482114,Modern Data Practice and the SQL Tradition,2019-11-08 00:00:00+00:00,277,215,tselai.com,
 21482106,UK Met Office Climate Dashboard,2019-11-08 00:00:00+00:00,184,175,www.metoffice.gov.uk,
 21482090,Nuclear energy is a vital part of solving the climate crisis,2019-11-08 00:00:00+00:00,404,411,archive.is,
 21481754,Just did the Y Combinator interview: here are my notes,2019-11-08 00:00:00+00:00,116,29,blog.checklyhq.com,
-21481656,Show HN: Nonprofit Open-Source Food Delivery and Local Shopping Platform,2019-11-08 00:00:00+00:00,132,20,nearbyshops.org,show
+21481656,Show HN: Nonprofit Open-Source Food Delivery and Local Shopping Platform,2019-11-08 00:00:00+00:00,132,20,nearbyshops.org,Show
 21481540,My Decade as a Fugitive,2019-11-08 00:00:00+00:00,179,106,story.californiasunday.com,
 21481504,America’s Largest Health Insurer Is Giving Apartments to Homeless People,2019-11-08 00:00:00+00:00,163,175,www.bloomberg.com,
 21481492,We Need to Map the Ocean Floor,2019-11-08 00:00:00+00:00,106,44,nautil.us,
@@ -71,7 +71,7 @@ objectID,title,created_at,points,num_comments,domain,type
 21480493,How Discord achieves native iOS performance with React Native,2019-11-08 00:00:00+00:00,242,114,blog.discordapp.com,
 21480482,"Elephants Rarely Get Cancer, Now We Know Why (2015)",2019-11-08 00:00:00+00:00,142,84,blogs.discovermagazine.com,
 21479773,The Tech of Pixar: Piper (2017),2019-11-08 00:00:00+00:00,274,41,www.fxguide.com,
-21479017,"Show HN: Minimal Reader for the ESV Bible, Written in Janet",2019-11-08 00:00:00+00:00,145,66,github.com,show
+21479017,"Show HN: Minimal Reader for the ESV Bible, Written in Janet",2019-11-08 00:00:00+00:00,145,66,github.com,Show
 21478759,Dopamine Fasting,2019-11-07 00:00:00+00:00,186,128,www.nytimes.com,
 21477774,Climate Change Response (Zero Carbon) Amendment Bill,2019-11-07 00:00:00+00:00,118,81,www.parliament.nz,
 21477695,Bob Iger Takes the Gloves Off for Disney’s Streaming Debut,2019-11-07 00:00:00+00:00,116,228,www.bloomberg.com,
@@ -84,16 +84,16 @@ objectID,title,created_at,points,num_comments,domain,type
 21473259,Async-await on stable Rust,2019-11-07 00:00:00+00:00,1095,375,blog.rust-lang.org,
 21473257,Rust 1.39,2019-11-07 00:00:00+00:00,209,20,blog.rust-lang.org,
 21473235,"AMD Q4:16-core Ryzen 9 3950X, Threadripper Up To 32-Core 3970X",2019-11-07 00:00:00+00:00,259,231,www.anandtech.com,
-21473220,Show HN: Turn any device with a browser into a security camera,2019-11-07 00:00:00+00:00,187,69,uview.io,show
+21473220,Show HN: Turn any device with a browser into a security camera,2019-11-07 00:00:00+00:00,187,69,uview.io,Show
 21473122,Thousands of Facebook internal documents and emails published online,2019-11-07 00:00:00+00:00,511,240,www.businessinsider.com,
 21473108,Being a good guy boss left me £1.2m in debt,2019-11-07 00:00:00+00:00,368,307,www.bbc.co.uk,
 21473098,Open Steno Project: Bringing Stenography to Everyone,2019-11-07 00:00:00+00:00,177,71,www.openstenoproject.org,
 21472916,The Life of NHL Dentists,2019-11-07 00:00:00+00:00,172,82,www.espn.com,
-21472817,Show HN: Collective.Energy – Crowdsource climate solutions as a community,2019-11-07 00:00:00+00:00,166,67,collective.energy,show
+21472817,Show HN: Collective.Energy – Crowdsource climate solutions as a community,2019-11-07 00:00:00+00:00,166,67,collective.energy,Show
 21472492,Spiders and ants inspire metal that won't sink,2019-11-07 00:00:00+00:00,118,64,phys.org,
 21472176,"You can fool some of the people, all of the time",2019-11-07 00:00:00+00:00,241,215,www.economist.com,
 21472149,I was an astrologer,2019-11-07 00:00:00+00:00,440,404,www.theguardian.com,
-21472086,Time to Take Down the Mona Lisa?,2019-11-07 00:00:00+00:00,113,158,www.nytimes.com,ask
+21472086,Time to Take Down the Mona Lisa?,2019-11-07 00:00:00+00:00,113,158,www.nytimes.com,
 21472079,Flint’s Children Suffer in Class After Years of Drinking the Lead-Poisoned Water,2019-11-07 00:00:00+00:00,290,124,www.nytimes.com,
 21472052,Bypassing GitHub's OAuth Flow with a Head Request,2019-11-07 00:00:00+00:00,468,98,blog.teddykatz.com,
 21471538,"Budapest declares climate emergency, teases carbon-neutrality",2019-11-07 00:00:00+00:00,149,94,www.euractiv.com,
@@ -101,7 +101,7 @@ objectID,title,created_at,points,num_comments,domain,type
 21471091,NSW Digital Driver Licence,2019-11-07 00:00:00+00:00,134,192,www.service.nsw.gov.au,
 21470407,Solar farm has to switch off every second day due to negative prices,2019-11-07 00:00:00+00:00,158,184,reneweconomy.com.au,
 21470398,Demoscene guidebook (2018),2019-11-07 00:00:00+00:00,202,55,github.com,
-21470380,Why the fuck was I breached?,2019-11-07 00:00:00+00:00,122,42,whythefuckwasibreached.com,ask
+21470380,Why the fuck was I breached?,2019-11-07 00:00:00+00:00,122,42,whythefuckwasibreached.com,
 21469295,Comparing Parallel Rust and C++,2019-11-07 00:00:00+00:00,408,179,parallel-rust-cpp.github.io,
 21469020,Google Open-Sources Cardboard,2019-11-07 00:00:00+00:00,330,171,github.com,
 21468788,Indiana Bell moved a functioning building in 1930,2019-11-06 00:00:00+00:00,102,24,kottke.org,
@@ -116,11 +116,11 @@ objectID,title,created_at,points,num_comments,domain,type
 21466196,Science Vigilante Calls Out Bogus Results in Prestigious Journals,2019-11-06 00:00:00+00:00,169,72,onezero.medium.com,
 21466104,My Hardest Bug to Debug (2018),2019-11-06 00:00:00+00:00,134,71,www.programminginsteeltoecaps.com,
 21465918,A Study of Meditation Under the Influence of Psilocybin,2019-11-06 00:00:00+00:00,277,154,www.nature.com,
-21465873,What do we really know about the effectiveness of digital advertising?,2019-11-06 00:00:00+00:00,479,349,thecorrespondent.com,ask
+21465873,What do we really know about the effectiveness of digital advertising?,2019-11-06 00:00:00+00:00,479,349,thecorrespondent.com,
 21465796,California says Facebook dodged privacy subpoenas,2019-11-06 00:00:00+00:00,140,12,www.axios.com,
 21465641,Start before you think you’re ready,2019-11-06 00:00:00+00:00,294,75,austinkleon.com,
 21465563,Better World Books and the Internet Archive Unite to Preserve Millions of Books,2019-11-06 00:00:00+00:00,385,42,against-the-grain.com,
-21465446,Is Inequality Inevitable?,2019-11-06 00:00:00+00:00,232,594,www.scientificamerican.com,ask
+21465446,Is Inequality Inevitable?,2019-11-06 00:00:00+00:00,232,594,www.scientificamerican.com,
 21465056,In Praise of the 5-Hour Workday and Other ‘Radical’ Ideas,2019-11-06 00:00:00+00:00,535,322,www.nytimes.com,
 21464971,“Is your startup idea taken?” and why we love X for Y startups,2019-11-06 00:00:00+00:00,307,220,andrewchen.co,
 21464572,"Man Underpaid Property Tax by $8.41 County Seized Home, Sold It-Kept Profits",2019-11-06 00:00:00+00:00,327,185,reason.com,
@@ -133,7 +133,7 @@ objectID,title,created_at,points,num_comments,domain,type
 21463266,Milan Airport WiFi sends your MAC address to advertisers and trackers,2019-11-06 00:00:00+00:00,185,61,mobile.twitter.com,
 21463162,Intel publishes misleading benchmarks against AMD,2019-11-06 00:00:00+00:00,614,202,www.servethehome.com,
 21463008,Godot 3.2 beta 1,2019-11-06 00:00:00+00:00,149,39,godotengine.org,
-21462993,Show HN: OpenCV based multi-object-tracker with various object detection models,2019-11-06 00:00:00+00:00,105,21,github.com,show
+21462993,Show HN: OpenCV based multi-object-tracker with various object detection models,2019-11-06 00:00:00+00:00,105,21,github.com,Show
 21462832,Mark Text: Simple and Elegant Markdown Editor Focused on Speed and Usability,2019-11-06 00:00:00+00:00,206,140,marktext.app,
 21462771,Fastly launches its new compute environment – supports Rust,2019-11-06 00:00:00+00:00,125,15,www.fastly.com,
 21462689,Shields.io: Quality metadata badges for open source projects,2019-11-06 00:00:00+00:00,109,10,shields.io,
@@ -145,12 +145,12 @@ objectID,title,created_at,points,num_comments,domain,type
 21461911,For Sale: Sat-Takers’ Names. Colleges Buy Student Data and Boost Exclusivity,2019-11-06 00:00:00+00:00,152,104,www.wsj.com,
 21461755,Using the linear distance operator in Postgres 12 to find the closest match,2019-11-06 00:00:00+00:00,113,38,www.2ndquadrant.com,
 21461705,Censorship is bad even when it’s done by private companies,2019-11-06 00:00:00+00:00,231,243,necpluribusimpar.net,
-21461701,Show HN: microvm – a minimalist machine type for QEMU inspired by Firecracker,2019-11-06 00:00:00+00:00,145,20,github.com,show
+21461701,Show HN: microvm – a minimalist machine type for QEMU inspired by Firecracker,2019-11-06 00:00:00+00:00,145,20,github.com,Show
 21461681,Microsoft’s web-based version of Visual Studio,2019-11-06 00:00:00+00:00,165,192,techcrunch.com,
 21461652,It took 12 weeks to ship an MVP I thought would take 3,2019-11-06 00:00:00+00:00,279,216,boxci.dev,
-21461617,Ask HN: How do you make sure your servers are up as a single founder?,2019-11-06 00:00:00+00:00,440,218,,ask
+21461617,Ask HN: How do you make sure your servers are up as a single founder?,2019-11-06 00:00:00+00:00,440,218,,Ask
 21461545,"Nuclear fusion is 'a question of when, not if'",2019-11-06 00:00:00+00:00,141,322,www.bbc.com,
-21461145,Is GraphQL Still Relevant in an HTTP2 World?,2019-11-06 00:00:00+00:00,156,90,medium.com,ask
+21461145,Is GraphQL Still Relevant in an HTTP2 World?,2019-11-06 00:00:00+00:00,156,90,medium.com,
 21460966,Designing better data tables (2017),2019-11-06 00:00:00+00:00,239,93,uxdesign.cc,
 21460888,Association between gifts from pharma group to drug prescribed by French doctors,2019-11-06 00:00:00+00:00,133,58,www.bmj.com,
 21460759,File systems unfit as distributed storage back ends: lessons from Ceph evolution,2019-11-06 00:00:00+00:00,262,71,blog.acolyer.org,
@@ -173,7 +173,7 @@ objectID,title,created_at,points,num_comments,domain,type
 21457294,California Mayors Join Campaign to Buy Out PG&E,2019-11-05 00:00:00+00:00,155,235,www.wsj.com,
 21457207,Ogre 1.12.3,2019-11-05 00:00:00+00:00,108,61,www.ogre3d.org,
 21456817,TypeScript 3.7,2019-11-05 00:00:00+00:00,414,151,www.typescriptlang.org,
-21456399,Ask HN: How is your mental health?,2019-11-05 00:00:00+00:00,162,153,,ask
+21456399,Ask HN: How is your mental health?,2019-11-05 00:00:00+00:00,162,153,,Ask
 21456084,Self Sabotage: The Swiss History of Rigging Vital Infrastructure to Explode,2019-11-05 00:00:00+00:00,209,129,99percentinvisible.org,
 21455941,Static Types in SwiftUI,2019-11-05 00:00:00+00:00,142,67,www.objc.io,
 21455739,Factual Inaccuracies of “Facebook Libra Is Architecturally Unsound”,2019-11-05 00:00:00+00:00,137,36,tonyarcieri.com,
@@ -252,7 +252,7 @@ objectID,title,created_at,points,num_comments,domain,type
 21440491,"Flood of Oil Is Coming, Complicating Efforts to Fight Global Warming",2019-11-04 00:00:00+00:00,290,474,www.nytimes.com,
 21440456,The manager’s schedule is holding remote work back,2019-11-04 00:00:00+00:00,327,195,medium.com,
 21440289,Roam – Tool for Thinking,2019-11-04 00:00:00+00:00,117,43,roamresearch.com,
-21439918,Show HN: Tailwind Builder – online editor for the Tailwind CSS framework,2019-11-04 00:00:00+00:00,293,43,tailwind.build,show
+21439918,Show HN: Tailwind Builder – online editor for the Tailwind CSS framework,2019-11-04 00:00:00+00:00,293,43,tailwind.build,Show
 21439340,DNS Wars,2019-11-04 00:00:00+00:00,209,87,www.potaroo.net,
 21439192,Some Favorite Non-Technical Books (2018),2019-11-04 00:00:00+00:00,233,48,www.stroustrup.com,
 21439089,"YC, not Lambda School, is unbundling education",2019-11-04 00:00:00+00:00,120,100,medium.com,
@@ -282,8 +282,8 @@ objectID,title,created_at,points,num_comments,domain,type
 21434578,Tech Workers Backing Candidates Looking to Break Up Their Employers,2019-11-03 00:00:00+00:00,190,277,www.bloomberg.com,
 21434355,Doodling can help you pay attention,2019-11-03 00:00:00+00:00,113,42,www.cnet.com,
 21433710,Microsoft Japan’s 3-day weekend boosts worker productivity,2019-11-03 00:00:00+00:00,554,210,soranews24.com,
-21433526,Ask HN: How do you roll back production?,2019-11-03 00:00:00+00:00,203,152,,ask
-21433305,Ask HN: How prevalent is non-cookie-based web tracking today?,2019-11-03 00:00:00+00:00,139,63,,ask
+21433526,Ask HN: How do you roll back production?,2019-11-03 00:00:00+00:00,203,152,,Ask
+21433305,Ask HN: How prevalent is non-cookie-based web tracking today?,2019-11-03 00:00:00+00:00,139,63,,Ask
 21433228,Webtest.app – Website Speed Test with and Without Ad Blocker,2019-11-03 00:00:00+00:00,104,37,webtest.app,
 21433221,The Money Farmers: How Oligarchs and Populists Milk the E.U.,2019-11-03 00:00:00+00:00,254,151,www.nytimes.com,
 21433217,Alcohol breath tests are often unreliable,2019-11-03 00:00:00+00:00,323,289,www.nytimes.com,
@@ -295,7 +295,7 @@ objectID,title,created_at,points,num_comments,domain,type
 21431791,Zotonic: An Erlang Web Framework,2019-11-03 00:00:00+00:00,115,26,zotonic.com,
 21431717,Starlink is a big deal,2019-11-03 00:00:00+00:00,132,111,caseyhandmer.wordpress.com,
 21431368,Kids Who Get Driven Everywhere Don't Know Where They're Going (2012),2019-11-03 00:00:00+00:00,116,73,www.citylab.com,
-21431222,A CS degree is better than teaching yourself how to code?,2019-11-03 00:00:00+00:00,155,314,zeroequalsfalse.com,ask
+21431222,A CS degree is better than teaching yourself how to code?,2019-11-03 00:00:00+00:00,155,314,zeroequalsfalse.com,
 21431071,"Extract voice, piano, drums, etc. from any music track",2019-11-03 00:00:00+00:00,1438,175,github.com,
 21431049,Toddler Password – Get a secure password generated by a toddler,2019-11-03 00:00:00+00:00,117,86,www.toddlerpassword.com,
 21431023,'Alarming' loss of insects and spiders recorded,2019-11-03 00:00:00+00:00,384,149,www.bbc.com,
@@ -317,12 +317,12 @@ objectID,title,created_at,points,num_comments,domain,type
 21429136,"Living skin can be 3D-printed, with blood vessels",2019-11-02 00:00:00+00:00,242,27,news.rpi.edu,
 21429096,Evolution of the Scrollbar,2019-11-02 00:00:00+00:00,122,78,scrollbars.matoseb.com,
 21428450,Derek Sivers podcast,2019-11-02 00:00:00+00:00,107,18,sivers.org,
-21428337,What does “frequency” mean in an image?,2019-11-02 00:00:00+00:00,145,47,photo.stackexchange.com,ask
+21428337,What does “frequency” mean in an image?,2019-11-02 00:00:00+00:00,145,47,photo.stackexchange.com,
 21427996,They Might Never Tell You It’s Broken,2019-11-02 00:00:00+00:00,414,210,pointersgonewild.com,
 21427565,What Grace Hopper meant with “easier to ask forgiveness than to get permission”,2019-11-02 00:00:00+00:00,160,73,changelog.com,
 21427556,Programming in 1969: An interview with a pioneer – my mum,2019-11-02 00:00:00+00:00,186,68,www.ilikebigbits.com,
-21427363,Show HN: Open sourcing a data flow engine for Clojure/Script,2019-11-02 00:00:00+00:00,116,5,domino-clj.github.io,show
-21427217,Google are removing URLs entirely from search results?,2019-11-02 00:00:00+00:00,664,322,www.reddit.com,ask
+21427363,Show HN: Open sourcing a data flow engine for Clojure/Script,2019-11-02 00:00:00+00:00,116,5,domino-clj.github.io,Show
+21427217,Google are removing URLs entirely from search results?,2019-11-02 00:00:00+00:00,664,322,www.reddit.com,
 21427120,Doom (1993) Encryption,2019-11-02 00:00:00+00:00,114,33,twitter.com,
 21427059,NoSnoop – Find out if your HTTPS traffic is being monitored,2019-11-02 00:00:00+00:00,122,59,www.trustprobe.com,
 21427058,Opinion: Standard Time all year round is the healthy choice,2019-11-02 00:00:00+00:00,384,277,www.theglobeandmail.com,
@@ -338,10 +338,10 @@ objectID,title,created_at,points,num_comments,domain,type
 21425855,Fossjobs.net: jobs that improve and involve FOSS or open hardware projects,2019-11-02 00:00:00+00:00,176,14,www.fossjobs.net,
 21425804,Chrome 0-day exploit used in Operation WizardOpium,2019-11-02 00:00:00+00:00,325,145,securelist.com,
 21425542,The Acceleration of Addictiveness (2010),2019-11-02 00:00:00+00:00,144,38,www.paulgraham.com,
-21423612,"Show HN: Own your Kubernetes: installation, addons, best practices – as code",2019-11-01 00:00:00+00:00,120,31,github.com,show
+21423612,"Show HN: Own your Kubernetes: installation, addons, best practices – as code",2019-11-01 00:00:00+00:00,120,31,github.com,Show
 21423019,Gaggle monitors the work and communications of almost 5M students in the US,2019-11-01 00:00:00+00:00,332,155,www.buzzfeednews.com,
 21422380,Homebrew Cray-1A,2019-11-01 00:00:00+00:00,228,51,www.chrisfenton.com,
-21421605,Is Anyone Going to Get Rich Off of Email Newsletters?,2019-11-01 00:00:00+00:00,116,66,www.theatlantic.com,ask
+21421605,Is Anyone Going to Get Rich Off of Email Newsletters?,2019-11-01 00:00:00+00:00,116,66,www.theatlantic.com,
 21421591,Leaving Apple,2019-11-01 00:00:00+00:00,184,110,belkadan.com,
 21421365,Setting up a home VPN server with WireGuard,2019-11-01 00:00:00+00:00,612,198,mikkel.hoegh.org,
 21421195,Encrypted web traffic now exceeds 90%,2019-11-01 00:00:00+00:00,798,295,netmarketshare.com,
@@ -349,16 +349,16 @@ objectID,title,created_at,points,num_comments,domain,type
 21420084,Python adopts a 12-month release cycle,2019-11-01 00:00:00+00:00,231,169,lwn.net,
 21420076,Neonicotinoids disrupt aquatic food webs and decrease fishery yields,2019-11-01 00:00:00+00:00,184,67,science.sciencemag.org,
 21420061,U.S. opens a national security review of TikTok’s acquisition of Musical.ly,2019-11-01 00:00:00+00:00,393,368,www.reuters.com,
-21419536,Ask HN: Who is hiring? (November 2019),2019-11-01 00:00:00+00:00,400,715,,ask
-21419534,Ask HN: Who wants to be hired? (November 2019),2019-11-01 00:00:00+00:00,132,262,,ask
-21419258,Ask HN: What to do after the workday?,2019-11-01 00:00:00+00:00,118,107,,ask
+21419536,Ask HN: Who is hiring? (November 2019),2019-11-01 00:00:00+00:00,400,715,,Ask
+21419534,Ask HN: Who wants to be hired? (November 2019),2019-11-01 00:00:00+00:00,132,262,,Ask
+21419258,Ask HN: What to do after the workday?,2019-11-01 00:00:00+00:00,118,107,,Ask
 21419106,Over a Third of Americans Battle Job Burnout Every Single Week,2019-11-01 00:00:00+00:00,141,213,www.studyfinds.org,
-21418882,Show HN: HR code – Designed to be recognized by humans and OCR,2019-11-01 00:00:00+00:00,124,56,github.com,show
+21418882,Show HN: HR code – Designed to be recognized by humans and OCR,2019-11-01 00:00:00+00:00,124,56,github.com,Show
 21418251,Opensourcing the Universal Package Manager,2019-11-01 00:00:00+00:00,162,40,repl.it,
 21418232,Google Buys Fitbit for $2.1B,2019-11-01 00:00:00+00:00,946,699,www.cnbc.com,
 21418120,European Cloud Project Draws Backlash from U.S. Tech Giants,2019-11-01 00:00:00+00:00,116,96,www.wsj.com,
 21418033,Linus Torvalds: Git proved I could be more than a one-hit wonder,2019-11-01 00:00:00+00:00,782,507,www.techrepublic.com,
-21417965,Show HN: Turn any website into an API (for those who miss Kimono),2019-11-01 00:00:00+00:00,332,74,simplescraper.io,show
+21417965,Show HN: Turn any website into an API (for those who miss Kimono),2019-11-01 00:00:00+00:00,332,74,simplescraper.io,Show
 21417859,Bayard: a full-text search and indexing server written in Rust,2019-11-01 00:00:00+00:00,283,106,github.com,
 21417541,The Feds are building an America-wide face surveillance system and ACLU is suing,2019-11-01 00:00:00+00:00,241,71,www.theregister.co.uk,
 21417381,Firefox to Discontinue Sideloaded Extensions,2019-11-01 00:00:00+00:00,432,207,blog.mozilla.org,
@@ -394,16 +394,16 @@ objectID,title,created_at,points,num_comments,domain,type
 21411104,Snake game made in Go,2019-10-31 00:00:00+00:00,118,48,github.com,
 21410833,Restic – Backups Done Right,2019-10-31 00:00:00+00:00,592,176,restic.net,
 21410708,Stop Explaining Black Box Models for High Stakes Decisions,2019-10-31 00:00:00+00:00,150,63,www.arxiv-vanity.com,
-21410579,Ask HN: What are some resources to improve speaking skills?,2019-10-31 00:00:00+00:00,215,69,,ask
+21410579,Ask HN: What are some resources to improve speaking skills?,2019-10-31 00:00:00+00:00,215,69,,Ask
 21410202,"‘Sexual’ use of eggplant and peach emojis banned on Facebook, Instagram",2019-10-31 00:00:00+00:00,133,150,nypost.com,
 21410158,SoftBank’s Masayoshi Son Speaks to an Almost Empty Room at Saudi Summit,2019-10-31 00:00:00+00:00,126,74,www.bloomberg.com,
-21409845,Launch HN: zeroheight (YC S19) – UX design docs that stay up-to-date,2019-10-31 00:00:00+00:00,109,38,,launch
+21409845,Launch HN: zeroheight (YC S19) – UX design docs that stay up-to-date,2019-10-31 00:00:00+00:00,109,38,,Launch
 21409827,"Lots of Job Hunting, but No Job, Despite Low Unemployment",2019-10-31 00:00:00+00:00,119,203,www.nytimes.com,
-21409744,Is Death Reversible?,2019-10-31 00:00:00+00:00,154,174,www.scientificamerican.com,ask
+21409744,Is Death Reversible?,2019-10-31 00:00:00+00:00,154,174,www.scientificamerican.com,
 21409066,The Machine Learning Software Engineering Interview,2019-10-31 00:00:00+00:00,238,74,eng.lyft.com,
 21408741,Destroying x86_64 instruction decoders with differential fuzzing,2019-10-31 00:00:00+00:00,180,106,blog.trailofbits.com,
 21408563,Some Blizzard employees are dreading BlizzCon,2019-10-31 00:00:00+00:00,374,319,www.latimes.com,
-21408415,Ask HN: Getting started in biology with a software background,2019-10-31 00:00:00+00:00,221,144,,ask
+21408415,Ask HN: Getting started in biology with a software background,2019-10-31 00:00:00+00:00,221,144,,Ask
 21408178,I Accidentally Uncovered a Nationwide Scam on Airbnb,2019-10-31 00:00:00+00:00,1322,618,www.vice.com,
 21408151,Boeing is facing fresh crisis after another airline found cracks in a 737 plane,2019-10-31 00:00:00+00:00,110,45,www.businessinsider.com,
 21408119,A Machine Learning Guide to Hierarchical Temporal Memory,2019-10-31 00:00:00+00:00,105,6,numenta.com,
@@ -421,12 +421,12 @@ objectID,title,created_at,points,num_comments,domain,type
 21405214,Veterans want answers as new data shows rise in cancers over two decades of war,2019-10-31 00:00:00+00:00,130,49,www.mcclatchydc.com,
 21405188,Grandmaster level in StarCraft II using multi-agent reinforcement learning,2019-10-31 00:00:00+00:00,355,57,deepmind.com,
 21404694,Getting Started with Security Keys,2019-10-31 00:00:00+00:00,346,99,paulstamatiou.com,
-21404423,Which Planet Is Closest?,2019-10-31 00:00:00+00:00,240,71,www.cgpgrey.com,ask
-21404312,Show HN: A minimal Fortran TCP client and server,2019-10-30 00:00:00+00:00,110,45,github.com,show
-21404292,Can Computers Prove Theorems?,2019-10-30 00:00:00+00:00,123,58,chalkdustmagazine.com,ask
+21404423,Which Planet Is Closest?,2019-10-31 00:00:00+00:00,240,71,www.cgpgrey.com,
+21404312,Show HN: A minimal Fortran TCP client and server,2019-10-30 00:00:00+00:00,110,45,github.com,Show
+21404292,Can Computers Prove Theorems?,2019-10-30 00:00:00+00:00,123,58,chalkdustmagazine.com,
 21404169,ProtonMail iOS app goes open source,2019-10-30 00:00:00+00:00,231,109,protonmail.com,
 21404156,The Cloud and Open Source,2019-10-30 00:00:00+00:00,103,32,www.tbray.org,
-21403091,"Show HN: Micro CRM, a CRM for People Who Hate CRMs",2019-10-30 00:00:00+00:00,147,85,,show
+21403091,"Show HN: Micro CRM, a CRM for People Who Hate CRMs",2019-10-30 00:00:00+00:00,147,85,,Show
 21403022,"Military Has Been Researching ""Anti-Gravity"" For Nearly 70 Years",2019-10-30 00:00:00+00:00,214,158,www.thedrive.com,
 21402717,BZFlag,2019-10-30 00:00:00+00:00,141,68,www.bzflag.org,
 21402603,Privileged Poor vs. Doubly Disadvantaged at Elite Schools,2019-10-30 00:00:00+00:00,158,89,www.theamericanconservative.com,
@@ -441,7 +441,7 @@ objectID,title,created_at,points,num_comments,domain,type
 21400809,Ebola Is Now a Disease We Can Treat,2019-10-30 00:00:00+00:00,346,31,www.wsj.com,
 21400376,The crisis in physics is not only about physics,2019-10-30 00:00:00+00:00,178,171,backreaction.blogspot.com,
 21399891,"Indian nuclear power plant’s network was hacked, officials confirm",2019-10-30 00:00:00+00:00,185,48,arstechnica.com,
-21399838,Ask HN: How to remove voice from a music file?,2019-10-30 00:00:00+00:00,121,46,,ask
+21399838,Ask HN: How to remove voice from a music file?,2019-10-30 00:00:00+00:00,121,46,,Ask
 21399793,The best-kept secret of Dutch biking: the Dutch hardly bike at all,2019-10-30 00:00:00+00:00,194,203,peopleforbikes.org,
 21399770,"Police blow up innocent man's home. No recompense, court rules",2019-10-30 00:00:00+00:00,144,207,www.washingtonpost.com,
 21399034,"Epstein's injuries look more like murder than suicide, noted pathologist says",2019-10-30 00:00:00+00:00,697,397,www.miamiherald.com,
@@ -455,7 +455,7 @@ objectID,title,created_at,points,num_comments,domain,type
 21397285,The SpaceX Starship is a big deal,2019-10-30 00:00:00+00:00,431,418,caseyhandmer.wordpress.com,
 21397206,New elevation data triple sea-level vulnerability rise estimates,2019-10-30 00:00:00+00:00,156,46,www.nature.com,
 21397041,Simple Does Not Mean Ugly,2019-10-30 00:00:00+00:00,170,127,uglyduck.ca,
-21397014,Is Stack Exchange in violation of NY labor law by using volunteer moderators?,2019-10-30 00:00:00+00:00,250,149,meta.stackexchange.com,ask
+21397014,Is Stack Exchange in violation of NY labor law by using volunteer moderators?,2019-10-30 00:00:00+00:00,250,149,meta.stackexchange.com,
 21396127,When XML Beats JSON: UI Layouts,2019-10-30 00:00:00+00:00,260,265,engineering.instawork.com,
 21395769,GitHub Censors Catalonian App Tsunami Democratic,2019-10-30 00:00:00+00:00,259,159,www.elconfidencial.com,
 21395629,Spanish government orders GitHub to take down Tsunami Democràtic repository,2019-10-30 00:00:00+00:00,439,402,github.com,
@@ -465,10 +465,10 @@ objectID,title,created_at,points,num_comments,domain,type
 21394764,Nokia’s collapse turned a sleepy town in Finland into an internet wonderland,2019-10-30 00:00:00+00:00,260,203,qz.com,
 21394678,Unfork(),2019-10-30 00:00:00+00:00,568,114,github.com,
 21394352,Machine and Deep Learning with OCaml Natively,2019-10-30 00:00:00+00:00,122,14,ocaml.xyz,
-21394349,Ask HN: Does anybody make good money from Google Adsense?,2019-10-30 00:00:00+00:00,110,95,,ask
+21394349,Ask HN: Does anybody make good money from Google Adsense?,2019-10-30 00:00:00+00:00,110,95,,Ask
 21394290,Close Encounter with a Gigantic Jet,2019-10-30 00:00:00+00:00,358,46,spaceweatherarchive.com,
 21394262,"Juul Shipped At Least 1M Contaminated Pods, New Lawsuit Says",2019-10-30 00:00:00+00:00,319,177,www.buzzfeednews.com,
-21394222,Show HN: I created an algorithm to help me achieve Product-Market Fit,2019-10-30 00:00:00+00:00,151,42,www.karma.fm,show
+21394222,Show HN: I created an algorithm to help me achieve Product-Market Fit,2019-10-30 00:00:00+00:00,151,42,www.karma.fm,Show
 21393758,IRS Tried to Hide Emails That Show Tax Industry Influence over Free File Program,2019-10-30 00:00:00+00:00,639,187,www.propublica.org,
 21393645,Google Announces .new Domain Availability,2019-10-30 00:00:00+00:00,111,159,whats.new,
 21393634,PG&E turning off power to protect against fire has created a new disaster,2019-10-30 00:00:00+00:00,157,327,slate.com,
@@ -479,11 +479,11 @@ objectID,title,created_at,points,num_comments,domain,type
 21392007,Key Change,2019-10-29 00:00:00+00:00,183,145,blog.counter-strike.net,
 21391381,New Features in Vue 3,2019-10-29 00:00:00+00:00,164,108,vueschool.io,
 21391322,XML is almost always misused,2019-10-29 00:00:00+00:00,201,204,www.devever.net,
-21391195,Show HN: SlowTube – Learn songs by ear by slowing them down,2019-10-29 00:00:00+00:00,143,44,dkthehuman.com,show
+21391195,Show HN: SlowTube – Learn songs by ear by slowing them down,2019-10-29 00:00:00+00:00,143,44,dkthehuman.com,Show
 21390984,A Quick and Easy Guide to Tmux (2015),2019-10-29 00:00:00+00:00,176,84,www.hamvocke.com,
 21390563,Gitlab cancels plan on tracking user behavior on GitLab.com,2019-10-29 00:00:00+00:00,602,270,gitlab.com,
 21389867,"The iPhone 11 Camera, Part 1: A Completely New Camera",2019-10-29 00:00:00+00:00,225,105,blog.halide.cam,
-21389776,Ask HN: What is your passive income 2019?,2019-10-29 00:00:00+00:00,307,292,,ask
+21389776,Ask HN: What is your passive income 2019?,2019-10-29 00:00:00+00:00,307,292,,Ask
 21389657,Xfinity Is Man-in-the-Middle Attacking My Internet,2019-10-29 00:00:00+00:00,599,296,rietta.com,
 21388951,"Remove default ""terraform"" partner_id",2019-10-29 00:00:00+00:00,238,77,github.com,
 21388834,"New 'unremovable' xHelper malware has infected 45,000 Android devices",2019-10-29 00:00:00+00:00,176,107,www.zdnet.com,
@@ -493,7 +493,7 @@ objectID,title,created_at,points,num_comments,domain,type
 21388022,How Untitled Goose Game became a real video game,2019-10-29 00:00:00+00:00,380,167,www.vox.com,
 21387967,"Goodbye, Flash",2019-10-29 00:00:00+00:00,331,333,webmasters.googleblog.com,
 21387633,Online installment loans have taken the subprime market by storm,2019-10-29 00:00:00+00:00,120,297,www.bloomberg.com,
-21387610,Is Crispr the Next Antibiotic?,2019-10-29 00:00:00+00:00,130,51,www.nytimes.com,ask
+21387610,Is Crispr the Next Antibiotic?,2019-10-29 00:00:00+00:00,130,51,www.nytimes.com,
 21387480,Mass cellphone surveillance experiment in Spain,2019-10-29 00:00:00+00:00,361,224,cfenollosa.com,
 21387299,How to force disgruntled worker not to publicly disclose “GPL'ed code”,2019-10-29 00:00:00+00:00,106,44,workplace.stackexchange.com,
 21387254,'Zen curtain' saves birds from hitting glass windows,2019-10-29 00:00:00+00:00,195,62,www.abc.net.au,
@@ -522,7 +522,7 @@ objectID,title,created_at,points,num_comments,domain,type
 21383138,"Intel: 10nm Product Era Has Begun, 7nm on Track",2019-10-29 00:00:00+00:00,208,177,www.anandtech.com,
 21383016,Oberon Operating System,2019-10-28 00:00:00+00:00,196,93,en.wikipedia.org,
 21382897,Offline-Pedia converts old televisions into Wikipedia readers (2018),2019-10-28 00:00:00+00:00,111,31,wikimediafoundation.org,
-21382709,Ask HN: I just wrote an O(N) diffing algorithm – what am I missing?,2019-10-28 00:00:00+00:00,281,57,,ask
+21382709,Ask HN: I just wrote an O(N) diffing algorithm – what am I missing?,2019-10-28 00:00:00+00:00,281,57,,Ask
 21382470,The Little Handbook of Statistical Practice (2012),2019-10-28 00:00:00+00:00,501,36,www.jerrydallal.com,
 21382310,"Google, in Rare Stumble, Posts 23% Decline in Profit",2019-10-28 00:00:00+00:00,145,87,www.nytimes.com,
 21380227,Dissent at Facebook over hands-off stance on political ads,2019-10-28 00:00:00+00:00,309,391,www.nytimes.com,
@@ -551,7 +551,7 @@ objectID,title,created_at,points,num_comments,domain,type
 21377207,I got 40 paying customers in 6 months with 0 dollars spent,2019-10-28 00:00:00+00:00,155,63,blog.pixelixe.com,
 21376838,Thriving on the Technical Leadership Path,2019-10-28 00:00:00+00:00,315,134,keavy.com,
 21376744,Apple Developer Documentation Is Missing,2019-10-28 00:00:00+00:00,830,387,v4.chriskrycho.com,
-21376557,Ask HN: What are your experiences with Svelte (JS framework),2019-10-28 00:00:00+00:00,109,101,,ask
+21376557,Ask HN: What are your experiences with Svelte (JS framework),2019-10-28 00:00:00+00:00,109,101,,Ask
 21376286,"When AWS, Azure, or GCP Becomes the Competition",2019-10-28 00:00:00+00:00,186,89,www.gkogan.co,
 21376203,A Cybersecurity Firm’s Sharp Rise and Stunning Collapse,2019-10-28 00:00:00+00:00,127,36,www.newyorker.com,
 21376173,Private firefighters go to work for California's wealthy,2019-10-28 00:00:00+00:00,147,188,www.foxbusiness.com,
@@ -560,9 +560,9 @@ objectID,title,created_at,points,num_comments,domain,type
 21374308,Playboy Interview: Steve Jobs (1985),2019-10-28 00:00:00+00:00,284,99,reprints.longform.org,
 21374257,Ten Commandments of How to Write an IMAP Client (2006),2019-10-28 00:00:00+00:00,134,44,www.washington.edu,
 21374204,Snap: A Microkernel Approach to Host Networking,2019-10-28 00:00:00+00:00,144,75,ai.google,
-21373931,Ask HN: What do you automate in your life and work?,2019-10-28 00:00:00+00:00,243,191,,ask
+21373931,Ask HN: What do you automate in your life and work?,2019-10-28 00:00:00+00:00,243,191,,Ask
 21373930,Widget-Maker – A Flutter UI Builder,2019-10-28 00:00:00+00:00,104,23,www.widgetmaker.dev,
-21373852,Ask HN: What is the most beautiful piece of code you've ever read?,2019-10-28 00:00:00+00:00,476,379,,ask
+21373852,Ask HN: What is the most beautiful piece of code you've ever read?,2019-10-28 00:00:00+00:00,476,379,,Ask
 21373800,"Unix: A History and a Memoir, by Brian Kernighan",2019-10-28 00:00:00+00:00,502,139,www.cs.princeton.edu,
 21373603,Looping Music Seamlessly,2019-10-28 00:00:00+00:00,223,61,nolannicholson.com,
 21373487,The Story of the Team Behind the 6502,2019-10-28 00:00:00+00:00,232,43,www.team6502.org,
@@ -572,7 +572,7 @@ objectID,title,created_at,points,num_comments,domain,type
 21372784,Betrayal at Krondor,2019-10-27 00:00:00+00:00,177,52,www.filfre.net,
 21372613,High-Performance GPU Computing in the Julia Programming Language (2017),2019-10-27 00:00:00+00:00,122,54,devblogs.nvidia.com,
 21371658,Deepstream 5.0: Resurrected using MIT license,2019-10-27 00:00:00+00:00,108,37,deepstream.io,
-21371642,Show HN: pg_flame – flamegraph visualizations of PostgreSQL query plans,2019-10-27 00:00:00+00:00,321,42,github.com,show
+21371642,Show HN: pg_flame – flamegraph visualizations of PostgreSQL query plans,2019-10-27 00:00:00+00:00,321,42,github.com,Show
 21371577,Startpage is now owned by an advertising company,2019-10-27 00:00:00+00:00,182,82,www.reddit.com,
 21371187,We May Not Have to Age So Fast,2019-10-27 00:00:00+00:00,148,121,www.wsj.com,
 21370605,Brain approaches tricky tasks in a surprisingly simple way,2019-10-27 00:00:00+00:00,174,17,cosmosmagazine.com,
@@ -585,7 +585,7 @@ objectID,title,created_at,points,num_comments,domain,type
 21369733,The Sad Saga of Purism and the Librem 5,2019-10-27 00:00:00+00:00,251,179,jaylittle.com,
 21369555,Duck Curve,2019-10-27 00:00:00+00:00,154,128,en.wikipedia.org,
 21369377,"ML from Scratch, Part 2: Logistic Regression (2018)",2019-10-27 00:00:00+00:00,170,4,www.oranlooney.com,
-21369310,Show HN: Git-subcopy lets you link files across repositories,2019-10-27 00:00:00+00:00,110,21,gitlab.com,show
+21369310,Show HN: Git-subcopy lets you link files across repositories,2019-10-27 00:00:00+00:00,110,21,gitlab.com,Show
 21369229,Ban Facial Recognition at Festivals,2019-10-27 00:00:00+00:00,177,149,www.banfacialrecognition.com,
 21369213,Disney Is Placing Classic Fox Movies into Its Vault,2019-10-27 00:00:00+00:00,144,122,www.vulture.com,
 21369210,A Phone Company Run by Drug Traffickers,2019-10-27 00:00:00+00:00,136,56,www.vice.com,
@@ -598,11 +598,11 @@ objectID,title,created_at,points,num_comments,domain,type
 21368123,"The evolution of the web, and a eulogy for XHTML2",2019-10-27 00:00:00+00:00,179,135,www.devever.net,
 21367882,Banksy's Fake Store Is an Attempt to Abuse Trademark Law to Avoid Copyright Law,2019-10-27 00:00:00+00:00,159,75,www.techdirt.com,
 21367691,Why async fn in traits are hard,2019-10-27 00:00:00+00:00,141,119,smallcultfollowing.com,
-21367151,Ask HN: How do B2B startups sell to corporations?,2019-10-27 00:00:00+00:00,427,110,,ask
+21367151,Ask HN: How do B2B startups sell to corporations?,2019-10-27 00:00:00+00:00,427,110,,Ask
 21367029,Skylon’s SABRE Engine Passes a Big Test,2019-10-26 00:00:00+00:00,140,44,www.universetoday.com,
 21366945,Around 30 percent of children in the U.S. don't get enough sleep: study,2019-10-26 00:00:00+00:00,157,107,www.newsweek.com,
 21366412,Victor Mono – A free programming font,2019-10-26 00:00:00+00:00,180,122,rubjo.github.io,
-21366349,Is “Investing in improving structure” better than “Paying off technical debt”?,2019-10-26 00:00:00+00:00,192,196,twitter.com,ask
+21366349,Is “Investing in improving structure” better than “Paying off technical debt”?,2019-10-26 00:00:00+00:00,192,196,twitter.com,
 21366324,Viktor Frankl: Why believe in others [video] (1972),2019-10-26 00:00:00+00:00,109,20,www.ted.com,
 21366177,Sudo vulnerability,2019-10-26 00:00:00+00:00,119,59,www.openwall.com,
 21365817,"Lasers could cut lifespan of nuclear waste, a Nobel winner suggests",2019-10-26 00:00:00+00:00,141,77,bigthink.com,
@@ -611,9 +611,9 @@ objectID,title,created_at,points,num_comments,domain,type
 21365391,Telling Whiskey from Whisky,2019-10-26 00:00:00+00:00,144,112,physics.aps.org,
 21365281,Tor Browser 9.0,2019-10-26 00:00:00+00:00,238,75,blog.torproject.org,
 21364699,Climate Change Will Cost Us Even More Than We Think,2019-10-26 00:00:00+00:00,137,167,www.nytimes.com,
-21364621,How to Mitigate a Negative SEO Campaign?,2019-10-26 00:00:00+00:00,161,58,support.google.com,ask
+21364621,How to Mitigate a Negative SEO Campaign?,2019-10-26 00:00:00+00:00,161,58,support.google.com,
 21364413,Dex: A research language for array processing in the Haskell/ML family,2019-10-26 00:00:00+00:00,147,34,github.com,
-21364410,Show HN: Make a video of any word forming out of candy,2019-10-26 00:00:00+00:00,101,44,customanim.com,show
+21364410,Show HN: Make a video of any word forming out of candy,2019-10-26 00:00:00+00:00,101,44,customanim.com,Show
 21364111,$2 Test Identified Bird Shit as Cocaine. Cops Keep Using It to Arrest People,2019-10-26 00:00:00+00:00,150,38,www.vice.com,
 21363383,Facebook crawls links in PDFs you send in Messenger,2019-10-26 00:00:00+00:00,476,152,twitter.com,
 21363217,A neural net solves the three-body problem 100M times faster,2019-10-26 00:00:00+00:00,180,51,www.technologyreview.com,
@@ -625,7 +625,7 @@ objectID,title,created_at,points,num_comments,domain,type
 21362382,One Page Dungeon Generator,2019-10-26 00:00:00+00:00,408,23,watabou.itch.io,
 21362200,Bruno Simon – 3D Curriculum,2019-10-26 00:00:00+00:00,251,42,bruno-simon.com,
 21362190,PostgreSQL example of self-contained stored procedures,2019-10-26 00:00:00+00:00,209,79,sivers.org,
-21362171,"A push gone wrong in the name of what, exactly?",2019-10-26 00:00:00+00:00,119,89,rachelbythebay.com,ask
+21362171,"A push gone wrong in the name of what, exactly?",2019-10-26 00:00:00+00:00,119,89,rachelbythebay.com,
 21362039,The Wonders of the Suffix Tree Through the Lens of Ukkonen’s Algorithm,2019-10-26 00:00:00+00:00,150,39,humanreadablemag.com,
 21362024,I bought used voting machines on eBay for $100 apiece (2018),2019-10-26 00:00:00+00:00,183,41,www.wired.com,
 21361992,Containers in 2019: They're Calling It a Hypervisor Comeback,2019-10-26 00:00:00+00:00,201,192,www.infoq.com,
@@ -633,7 +633,7 @@ objectID,title,created_at,points,num_comments,domain,type
 21361849,Hitman hires hitman who hires hitman who hires hitman who hires hitman,2019-10-26 00:00:00+00:00,321,240,metro.co.uk,
 21361845,Patents are about sharing information – don't shroud them in secrecy,2019-10-26 00:00:00+00:00,197,74,www.eff.org,
 21361696,Fish: A command line shell for the 90s,2019-10-26 00:00:00+00:00,149,83,fishshell.com,
-21361628,Why Graphiti?,2019-10-26 00:00:00+00:00,154,45,www.graphiti.dev,ask
+21361628,Why Graphiti?,2019-10-26 00:00:00+00:00,154,45,www.graphiti.dev,
 21360851,Please think architecture (2007),2019-10-26 00:00:00+00:00,115,27,lists.freebsd.org,
 21360605,No XBL Components Left in Firefox,2019-10-26 00:00:00+00:00,137,66,twitter.com,
 21360115,Microsoft Wins Pentagon’s $10B Contract,2019-10-25 00:00:00+00:00,701,440,www.nytimes.com,
@@ -645,19 +645,19 @@ objectID,title,created_at,points,num_comments,domain,type
 21358674,"Metamath Zero, a bootstrapping theorem prover",2019-10-25 00:00:00+00:00,125,36,arxiv.org,
 21358610,Intel SPMD Program Compiler: A Compiler for High-Performance SIMD Programming,2019-10-25 00:00:00+00:00,131,30,ispc.github.io,
 21358587,Indian startups have raised a record $11.3B this year,2019-10-25 00:00:00+00:00,236,156,techcrunch.com,
-21358531,My company sold for $100M and I got zilch – how can that be?,2019-10-25 00:00:00+00:00,644,370,medium.com,ask
+21358531,My company sold for $100M and I got zilch – how can that be?,2019-10-25 00:00:00+00:00,644,370,medium.com,
 21358288,We tested Europe’s new lie detector for travelers and triggered a false positive,2019-10-25 00:00:00+00:00,226,114,theintercept.com,
 21358040,"Supercritical CO2 is heavy like a liquid, with weird and useful properties",2019-10-25 00:00:00+00:00,212,55,popula.com,
 21358007,Migrating Russian eagles run up data roaming charges,2019-10-25 00:00:00+00:00,192,60,www.bbc.co.uk,
-21357921,Ask HN: What are unintended consequences of new tech you've noticed?,2019-10-25 00:00:00+00:00,267,361,,ask
+21357921,Ask HN: What are unintended consequences of new tech you've noticed?,2019-10-25 00:00:00+00:00,267,361,,Ask
 21357906,Back from the Blender Conference,2019-10-25 00:00:00+00:00,115,57,valdyas.org,
 21357841,Bill Gates on Windows Usability (2003),2019-10-25 00:00:00+00:00,266,225,twitter.com,
 21357634,Scientists discover fractal patterns in a quantum material,2019-10-25 00:00:00+00:00,172,49,phys.org,
 21357509,Someone is stealing Christopher Columbus letters,2019-10-25 00:00:00+00:00,125,32,www.cbsnews.com,
 21357096,Economists are now admitting that they were wrong about globalization,2019-10-25 00:00:00+00:00,337,255,foreignpolicy.com,
 21356998,"Hey Ho, GIFs Must Go (1999)",2019-10-25 00:00:00+00:00,124,122,www.theatlantic.com,
-21356511,Who Killed the Scrollbar?,2019-10-25 00:00:00+00:00,351,315,ello.co,ask
-21356203,Ask HN: Best language to share code between an Android and iOS app?,2019-10-25 00:00:00+00:00,116,117,,ask
+21356511,Who Killed the Scrollbar?,2019-10-25 00:00:00+00:00,351,315,ello.co,
+21356203,Ask HN: Best language to share code between an Android and iOS app?,2019-10-25 00:00:00+00:00,116,117,,Ask
 21356135,New Hampshire Lawmaker Kills Repair Bill Because 'Cellphones Are Throwaways',2019-10-25 00:00:00+00:00,161,116,www.vice.com,
 21355631,Using Deep Learning to Predict the Olfactory Properties of Molecules,2019-10-25 00:00:00+00:00,140,39,ai.googleblog.com,
 21355575,Airbnb in the Himalayas,2019-10-25 00:00:00+00:00,103,44,veridici.com,
@@ -668,7 +668,7 @@ objectID,title,created_at,points,num_comments,domain,type
 21353912,"Fair, the SoftBank-backed car startup, lays off 40% of staff, sacks CFO",2019-10-25 00:00:00+00:00,163,117,techcrunch.com,
 21353861,Applying BERT models to Search,2019-10-25 00:00:00+00:00,165,77,blog.google,
 21353393,Blurring the Line Between User and Programmer,2019-10-25 00:00:00+00:00,106,73,futureofcoding.org,
-21353123,Show HN: Aim and Shoot – A game where your opponents are neural networks,2019-10-25 00:00:00+00:00,118,33,github.com,show
+21353123,Show HN: Aim and Shoot – A game where your opponents are neural networks,2019-10-25 00:00:00+00:00,118,33,github.com,Show
 21353020,Rxdb: A reactive database where you can subscribe to the result of a query,2019-10-25 00:00:00+00:00,288,122,github.com,
 21352631,Python and OpenGL for Scientific Visualization,2019-10-25 00:00:00+00:00,235,24,www.labri.fr,
 21352596,Reflections on My Career at Microsoft,2019-10-25 00:00:00+00:00,300,159,medium.com,
@@ -683,7 +683,7 @@ objectID,title,created_at,points,num_comments,domain,type
 21352239,Double Slit Experiment No Mystery,2019-10-25 00:00:00+00:00,107,116,billwadge.wordpress.com,
 21352161,Gmail marking email from me as spam,2019-10-25 00:00:00+00:00,475,393,www.mail-archive.com,
 21352045,An Illustrated Guide to OAuth and OpenID Connect,2019-10-25 00:00:00+00:00,431,74,developer.okta.com,
-21351695,Show HN: MNML – 1v1 turn-based strategy game built with Rust and HTML5,2019-10-25 00:00:00+00:00,127,29,mnml.gg,show
+21351695,Show HN: MNML – 1v1 turn-based strategy game built with Rust and HTML5,2019-10-25 00:00:00+00:00,127,29,mnml.gg,Show
 21350290,"Google T5 scores 88.9 on SuperGLUE Benchmark, approaching human baseline",2019-10-24 00:00:00+00:00,303,235,super.gluebenchmark.com,
 21350246,How SSH Port Became 22,2019-10-24 00:00:00+00:00,382,81,www.ssh.com,
 21350091,MIT Media Lab Scientist Used Refugees to Tout Food Computers That Didn't Work,2019-10-24 00:00:00+00:00,359,204,spectrum.ieee.org,
@@ -693,20 +693,20 @@ objectID,title,created_at,points,num_comments,domain,type
 21349230,The effort to preserve a million letters written by U.S. soldiers during wartime,2019-10-24 00:00:00+00:00,155,43,www.smithsonianmag.com,
 21349180,Earliest known draft of the King James Bible discovered,2019-10-24 00:00:00+00:00,247,231,www.neh.gov,
 21348476,Monty Hall Problem,2019-10-24 00:00:00+00:00,122,252,en.wikipedia.org,
-21347820,Dark.fail: Is a darknet site online?,2019-10-24 00:00:00+00:00,148,38,dark.fail,ask
+21347820,Dark.fail: Is a darknet site online?,2019-10-24 00:00:00+00:00,148,38,dark.fail,
 21346589,Electron 7.0,2019-10-24 00:00:00+00:00,227,278,electronjs.org,
 21346500,How to Become the Best in the World at Something,2019-10-24 00:00:00+00:00,322,141,forge.medium.com,
 21346435,We Never Paid for Journalism,2019-10-24 00:00:00+00:00,128,122,idiallo.com,
-21346414,Launch HN: Mutiny (YC S18) – Website Personalization for B2B Companies,2019-10-24 00:00:00+00:00,105,48,,launch
+21346414,Launch HN: Mutiny (YC S18) – Website Personalization for B2B Companies,2019-10-24 00:00:00+00:00,105,48,,Launch
 21346387,Hacker‘s Manifesto (1986),2019-10-24 00:00:00+00:00,341,128,phrack.org,
 21346318,Thanks Gitlab,2019-10-24 00:00:00+00:00,146,158,cmpwn.com,
 21346307,Ring Gave Police Stats About Users Who Said No to Law Enforcement Requests,2019-10-24 00:00:00+00:00,368,276,gizmodo.com,
 21346290,React Concurrent Mode,2019-10-24 00:00:00+00:00,446,294,reactjs.org,
-21346272,Ask HN: Are there books for mathematics like Feynman's lectures on physics?,2019-10-24 00:00:00+00:00,788,171,,ask
+21346272,Ask HN: Are there books for mathematics like Feynman's lectures on physics?,2019-10-24 00:00:00+00:00,788,171,,Ask
 21346154,Working asynchronously,2019-10-24 00:00:00+00:00,266,103,blog.remote.com,
 21345142,Obscure Charges That Utility Companies Add to Bills,2019-10-24 00:00:00+00:00,119,29,www.propublica.org,
 21344522,Congressman's phone password is 111111,2019-10-24 00:00:00+00:00,321,194,gfycat.com,
-21343989,Show HN: Passbox – Give access to your data only after you're dead,2019-10-24 00:00:00+00:00,110,133,passbox.co,show
+21343989,Show HN: Passbox – Give access to your data only after you're dead,2019-10-24 00:00:00+00:00,110,133,passbox.co,Show
 21343860,Web Based Qt Design Viewer,2019-10-24 00:00:00+00:00,132,88,www.qt.io,
 21343761,Gitlab ‘rethinking’ third-party telemetry,2019-10-24 00:00:00+00:00,623,347,gitlab.com,
 21343521,Grafana Labs raises $24M,2019-10-24 00:00:00+00:00,293,114,grafana.com,
@@ -715,12 +715,12 @@ objectID,title,created_at,points,num_comments,domain,type
 21343023,Ubuntu Touch OTA-11 Release,2019-10-24 00:00:00+00:00,115,28,ubports.com,
 21342930,The decline in U.S. life expectancy is unlike anything seen in a century (2018),2019-10-24 00:00:00+00:00,239,335,www.popsci.com,
 21342692,Firefox Preview/GeckoView Add-Ons Support,2019-10-24 00:00:00+00:00,199,112,blog.mozilla.org,
-21342648,Why Aren’t We Curious About the Things We Want to Be Curious About?,2019-10-24 00:00:00+00:00,324,119,www.nytimes.com,ask
+21342648,Why Aren’t We Curious About the Things We Want to Be Curious About?,2019-10-24 00:00:00+00:00,324,119,www.nytimes.com,
 21342501,Rust and C++ on Floating-Point Intensive Code,2019-10-24 00:00:00+00:00,216,94,www.reidatcheson.com,
-21342491,Show HN: Mac toolbar app to show electricity cutoff schedule,2019-10-24 00:00:00+00:00,105,48,mhasbini.com,show
+21342491,Show HN: Mac toolbar app to show electricity cutoff schedule,2019-10-24 00:00:00+00:00,105,48,mhasbini.com,Show
 21342371,My own private Iceland,2019-10-24 00:00:00+00:00,140,88,www.vox.com,
 21342317,"Flagstaff, Arizona, switched to LEDs without giving astronomers a headache",2019-10-24 00:00:00+00:00,218,95,arstechnica.com,
-21341817,Show HN: Tool I created to covert tabular data to a 'pretty' table,2019-10-24 00:00:00+00:00,107,34,dv.dbb1.dev,show
+21341817,Show HN: Tool I created to covert tabular data to a 'pretty' table,2019-10-24 00:00:00+00:00,107,34,dv.dbb1.dev,Show
 21341597,Stripe to move to South San Francisco,2019-10-24 00:00:00+00:00,324,419,www.sfchronicle.com,
 21341537,Vim 101: How to Start Using the Text Editor for Developers,2019-10-24 00:00:00+00:00,178,99,www.datastuff.tech,
 21341349,Letting Bird’s scooters fly free,2019-10-24 00:00:00+00:00,104,67,mjg59.dreamwidth.org,
@@ -754,7 +754,7 @@ objectID,title,created_at,points,num_comments,domain,type
 21335975,Why Garmin watches have become common in some segments of tactical aviation,2019-10-23 00:00:00+00:00,225,147,theaviationist.com,
 21335907,Quantum supremacy: the gloves are off,2019-10-23 00:00:00+00:00,275,56,www.scottaaronson.com,
 21335785,VW’s $50B Bet on an Electric Hatchback,2019-10-23 00:00:00+00:00,145,182,www.bloomberg.com,
-21335366,Show HN: Trip Planner – A tool for planning a trip itinerary using Google Maps,2019-10-23 00:00:00+00:00,110,30,github.com,show
+21335366,Show HN: Trip Planner – A tool for planning a trip itinerary using Google Maps,2019-10-23 00:00:00+00:00,110,30,github.com,Show
 21334964,"Google’s Play Store gives a worse age rating to Fleksy, a Gboard rival",2019-10-23 00:00:00+00:00,311,105,techcrunch.com,
 21334676,U.S. senators want social media users to be able to take their data with them,2019-10-23 00:00:00+00:00,341,196,www.reuters.com,
 21334517,Where is Notepad in Windows 10? (2015),2019-10-23 00:00:00+00:00,161,200,answers.microsoft.com,
@@ -762,17 +762,17 @@ objectID,title,created_at,points,num_comments,domain,type
 21334307,On “Quantum Supremacy”,2019-10-23 00:00:00+00:00,131,5,www.ibm.com,
 21333105,IBM casts doubt on Google's claims of quantum supremacy,2019-10-23 00:00:00+00:00,417,138,www.ibm.com,
 21333063,Edward Snowden on The Joe Rogan Experience [video],2019-10-23 00:00:00+00:00,1128,584,www.youtube.com,
-21332957,Ask HN: How did you build up your personal knowledge base?,2019-10-23 00:00:00+00:00,324,107,,ask
+21332957,Ask HN: How did you build up your personal knowledge base?,2019-10-23 00:00:00+00:00,324,107,,Ask
 21332768,Quantum Supremacy Using a Programmable Superconducting Processor,2019-10-23 00:00:00+00:00,701,178,ai.googleblog.com,
 21332283,Using Web Bluetooth to Communicate with Bluetooth Devices,2019-10-23 00:00:00+00:00,186,121,www.balena.io,
-21332072,Ask HN: Successful one-person online businesses?,2019-10-23 00:00:00+00:00,1474,656,,ask
+21332072,Ask HN: Successful one-person online businesses?,2019-10-23 00:00:00+00:00,1474,656,,Ask
 21331736,EU data watchdog raises concerns over Microsoft contracts,2019-10-23 00:00:00+00:00,115,32,www.reuters.com,
 21330984,We are leaving the Apple App Store and all its problems,2019-10-23 00:00:00+00:00,641,430,exactscan.com,
 21330859,My transition to an Ubuntu workstation,2019-10-23 00:00:00+00:00,208,231,ryannjohnson.com,
 21330761,We Need to Dream Bigger Than Bike Lanes,2019-10-23 00:00:00+00:00,442,544,www.citylab.com,
 21330720,Solving a linear optimization problem on incentive allocation,2019-10-23 00:00:00+00:00,115,22,eng.lyft.com,
 21330678,Why iOS 13 and Catalina Are So Buggy,2019-10-23 00:00:00+00:00,537,349,tidbits.com,
-21330500,Show HN: Glaze – Illustrations for Products and Presentations,2019-10-23 00:00:00+00:00,120,23,glazestock.com,show
+21330500,Show HN: Glaze – Illustrations for Products and Presentations,2019-10-23 00:00:00+00:00,120,23,glazestock.com,Show
 21329870,Pedestrian Bridge Collapse over SW 8th Street in Miami [pdf],2019-10-23 00:00:00+00:00,190,118,www.ntsb.gov,
 21329655,"Geometry, Algebra, and Intuition (2017)",2019-10-22 00:00:00+00:00,244,39,www.shapeoperator.com,
 21329572,"WeWork Needed a Bailout, But Adam Neumann Still Leaves a Billionaire",2019-10-22 00:00:00+00:00,123,97,www.bloomberg.com,
@@ -793,9 +793,9 @@ objectID,title,created_at,points,num_comments,domain,type
 21325916,Bipolar-Zener Combo Takes On CMOS,2019-10-22 00:00:00+00:00,108,55,www.eetimes.com,
 21325421,Guarding Against Physical Attacks: The Xbox One Story [video],2019-10-22 00:00:00+00:00,126,52,www.platformsecuritysummit.com,
 21325295,Ranked-choice voting is on the ballot in New York City,2019-10-22 00:00:00+00:00,836,394,www.nytimes.com,
-21325138,Ask HN: Agriculture startups doing interesting work?,2019-10-22 00:00:00+00:00,318,201,,ask
+21325138,Ask HN: Agriculture startups doing interesting work?,2019-10-22 00:00:00+00:00,318,201,,Ask
 21324996,An Introduction to Real-Time Subsurface Scattering,2019-10-22 00:00:00+00:00,147,4,therealmjp.github.io,
-21324768,Ask HN: What's a promising area to work on?,2019-10-22 00:00:00+00:00,1331,917,,ask
+21324768,Ask HN: What's a promising area to work on?,2019-10-22 00:00:00+00:00,1331,917,,Ask
 21324273,Dramatically reduced power usage in Firefox 70 on macOS with Core Animation,2019-10-22 00:00:00+00:00,526,78,mozillagfx.wordpress.com,
 21324133,Under digital surveillance: how American schools spy on millions of kids,2019-10-22 00:00:00+00:00,170,98,www.theguardian.com,
 21323748,Elon Musk tweets using SpaceX’s Starlink satellite internet,2019-10-22 00:00:00+00:00,117,109,techcrunch.com,
@@ -824,7 +824,7 @@ objectID,title,created_at,points,num_comments,domain,type
 21320080,Apple CEO becomes chairman of China university board,2019-10-22 00:00:00+00:00,183,92,www.taiwannews.com.tw,
 21319934,I wasted 10 weeks of my life and $1900,2019-10-22 00:00:00+00:00,123,86,www.reddit.com,
 21319460,Oxford Professor Is Accused of Selling Ancient Texts,2019-10-22 00:00:00+00:00,150,96,www.nytimes.com,
-21318704,Ask HN: How was life for a regular dev during the dot com burst?,2019-10-21 00:00:00+00:00,642,400,,ask
+21318704,Ask HN: How was life for a regular dev during the dot com burst?,2019-10-21 00:00:00+00:00,642,400,,Ask
 21318504,GNOME files defense against patent troll,2019-10-21 00:00:00+00:00,357,41,www.gnome.org,
 21318475,How to Make a Great Puzzle Game,2019-10-21 00:00:00+00:00,161,57,thepuzzle.press,
 21318184,The Internet of creation disappeared. Now we have surveillance and control,2019-10-21 00:00:00+00:00,464,200,lab.cccb.org,
@@ -851,7 +851,7 @@ objectID,title,created_at,points,num_comments,domain,type
 21312109,Elm 0.19.1,2019-10-21 00:00:00+00:00,348,145,elm-lang.org,
 21311869,"BlizzCon 2019 Protest “Full-Steam Ahead,” Say Organizers",2019-10-21 00:00:00+00:00,419,177,www.gamespot.com,
 21311475,Apparently NordVPN Was Compromised,2019-10-21 00:00:00+00:00,271,244,twitter.com,
-21311302,Ask HN: What are the most fundamental books on computer science?,2019-10-21 00:00:00+00:00,474,192,,ask
+21311302,Ask HN: What are the most fundamental books on computer science?,2019-10-21 00:00:00+00:00,474,192,,Ask
 21311194,Phantom – forward-thinking concept of OS that's not Linux-derived,2019-10-21 00:00:00+00:00,112,50,phantomos.org,
 21311172,Traffic lights worldwide set to change after a Swedish engineer saw red,2019-10-21 00:00:00+00:00,362,340,www.theregister.co.uk,
 21311064,DuckDuckGo's traffic keeps growing,2019-10-21 00:00:00+00:00,342,179,duckduckgo.com,
@@ -862,17 +862,17 @@ objectID,title,created_at,points,num_comments,domain,type
 21310697,"Amazon is shipping expired food, customers say",2019-10-21 00:00:00+00:00,464,217,www.cnbc.com,
 21310445,Build your own dial up ISP in 2019,2019-10-21 00:00:00+00:00,154,39,dogemicrosystems.ca,
 21310198,We Don't Want to Run This Ad but Forced To,2019-10-21 00:00:00+00:00,172,114,www.seroundtable.com,
-21310030,Ask HN: How do you share/organize knowledge at work and life?,2019-10-21 00:00:00+00:00,781,295,,ask
+21310030,Ask HN: How do you share/organize knowledge at work and life?,2019-10-21 00:00:00+00:00,781,295,,Ask
 21309949,63 Cores Blocked by Seven Instructions,2019-10-21 00:00:00+00:00,480,84,randomascii.wordpress.com,
-21309518,"Show HN: Eole, a Lévy-optimal lambda calculus evaluator written in Rust",2019-10-21 00:00:00+00:00,106,9,github.com,show
+21309518,"Show HN: Eole, a Lévy-optimal lambda calculus evaluator written in Rust",2019-10-21 00:00:00+00:00,106,9,github.com,Show
 21309174,Australia Newspapers Redact Front Pages in Media-Freedom Protest,2019-10-21 00:00:00+00:00,190,59,www.bloomberg.com,
 21309065,An on-going conversion of Scoopex's Amiga Hardware coding tutorials into C,2019-10-21 00:00:00+00:00,104,13,github.com,
-21309033,"Doctor T, don’t you get tired of only seeing older patients?",2019-10-21 00:00:00+00:00,278,47,twitter.com,ask
+21309033,"Doctor T, don’t you get tired of only seeing older patients?",2019-10-21 00:00:00+00:00,278,47,twitter.com,
 21309024,"To hire neurodiverse workers, one firm got rid of job interviews",2019-10-21 00:00:00+00:00,297,416,www.bbc.com,
 21308939,DNS over HTTPS–What Is It and Why Do People Care? [pdf],2019-10-21 00:00:00+00:00,119,87,crsreports.congress.gov,
 21308296,Memex: Browser Extension to full-text search your browsing history and bookmarks,2019-10-21 00:00:00+00:00,288,95,github.com,
 21307930,"FireEye confirms APT41 hacked TeamViewer, may have accessed billions of devices",2019-10-20 00:00:00+00:00,306,70,twitter.com,
-21307888,"Show HN: Nginx Image with HTTP/3 (QUIC), TLS1.3 with 0-RTT, Brotli",2019-10-20 00:00:00+00:00,219,63,github.com,show
+21307888,"Show HN: Nginx Image with HTTP/3 (QUIC), TLS1.3 with 0-RTT, Brotli",2019-10-20 00:00:00+00:00,219,63,github.com,Show
 21307308,Disney+ streaming uses draconian DRM,2019-10-20 00:00:00+00:00,426,318,hansdegoede.livejournal.com,
 21307142,Client-side web programming in Haskell: A retrospective,2019-10-20 00:00:00+00:00,163,47,chrisdone.com,
 21307136,"Git Internals, Techniques, and Rewriting History",2019-10-20 00:00:00+00:00,162,58,blog.isquaredsoftware.com,
@@ -888,7 +888,7 @@ objectID,title,created_at,points,num_comments,domain,type
 21305911,F# RISC-V Instruction Set Formal Specification,2019-10-20 00:00:00+00:00,122,16,github.com,
 21305837,"Yes, Estimate Software Projects",2019-10-20 00:00:00+00:00,160,91,blog.pragmaticengineer.com,
 21305570,Attempting to Use GNU Guix,2019-10-20 00:00:00+00:00,120,45,zge.us.to,
-21305258,Taiwan managed to build high-speed rail. Why can't California?,2019-10-20 00:00:00+00:00,119,151,www.desertsun.com,ask
+21305258,Taiwan managed to build high-speed rail. Why can't California?,2019-10-20 00:00:00+00:00,119,151,www.desertsun.com,
 21304889,The FBI Lost Our Son,2019-10-20 00:00:00+00:00,147,69,www.wsj.com,
 21304612,Andrew Yang's ideas on automation and mass unemployment are not based in reality,2019-10-20 00:00:00+00:00,108,109,slate.com,
 21304568,A Forty Year Career,2019-10-20 00:00:00+00:00,168,35,lethain.com,
@@ -901,7 +901,7 @@ objectID,title,created_at,points,num_comments,domain,type
 21303181,"Don't Call Yourself a Programmer, and Other Career Advice (2011)",2019-10-20 00:00:00+00:00,570,307,www.kalzumeus.com,
 21303173,Today’s correction isn’t much like the dot-com bubble,2019-10-20 00:00:00+00:00,238,152,www.theatlantic.com,
 21302498,Lesser Known Coding Fonts,2019-10-20 00:00:00+00:00,640,245,vfoley.xyz,
-21302412,Ask HN: Feasible Alternative to the MacBook Pro?,2019-10-20 00:00:00+00:00,563,602,,ask
+21302412,Ask HN: Feasible Alternative to the MacBook Pro?,2019-10-20 00:00:00+00:00,563,602,,Ask
 21302347,A cartoon intro to DNS over HTTPS (2018),2019-10-20 00:00:00+00:00,196,124,hacks.mozilla.org,
 21302244,Dr Sarah E. Hill: ‘A blind spot about how the pill influences women’s brains’,2019-10-20 00:00:00+00:00,189,98,www.theguardian.com,
 21301890,Soundex – a phonetic algorithm for indexing names by sound,2019-10-20 00:00:00+00:00,106,41,en.wikipedia.org,
@@ -927,7 +927,7 @@ objectID,title,created_at,points,num_comments,domain,type
 21298383,An electric crate motor you can drop into your car,2019-10-19 00:00:00+00:00,416,264,jalopnik.com,
 21298341,"Goodbye, shitty Car extends Vehicle object-orientation tutorial (2011)",2019-10-19 00:00:00+00:00,162,102,web.archive.org,
 21298233,"ML From Scratch, Part 1: Linear Regression",2019-10-19 00:00:00+00:00,301,38,www.oranlooney.com,
-21298227,Why Does Inflammation Seem to Underlie All Sickness?,2019-10-19 00:00:00+00:00,287,80,elemental.medium.com,ask
+21298227,Why Does Inflammation Seem to Underlie All Sickness?,2019-10-19 00:00:00+00:00,287,80,elemental.medium.com,
 21297868,Record number of colleges drop SAT/ACT admissions requirement,2019-10-19 00:00:00+00:00,111,153,www.washingtonpost.com,
 21297789,Adam Neumann planned for his children and grandchildren to control WeWork,2019-10-19 00:00:00+00:00,171,191,techcrunch.com,
 21297639,All plastic waste could be recycled into new plastic: researchers,2019-10-19 00:00:00+00:00,249,150,www.chalmers.se,
@@ -939,10 +939,10 @@ objectID,title,created_at,points,num_comments,domain,type
 21295942,Alphabet’s Wing begins making commercial drone deliveries in the US,2019-10-18 00:00:00+00:00,254,234,techcrunch.com,
 21295149,D at 20: Hits and Misses [pdf],2019-10-18 00:00:00+00:00,123,53,digitalmars.com,
 21295079,Builders Ditch Nest After Google Ties Devices to Digital Assistant,2019-10-18 00:00:00+00:00,181,121,www.bloomberg.com,
-21294976,Are Aerospike Engines Better Than Traditional Rocket Engines?,2019-10-18 00:00:00+00:00,271,76,everydayastronaut.com,ask
+21294976,Are Aerospike Engines Better Than Traditional Rocket Engines?,2019-10-18 00:00:00+00:00,271,76,everydayastronaut.com,
 21294815,Photographing Big Waves at Mavericks,2019-10-18 00:00:00+00:00,144,13,www.cake.co,
 21294354,New pathfinding algorithm,2019-10-18 00:00:00+00:00,478,109,factorio.com,
-21293941,"Show HN: Blackjack Break, a minimal quick-play blackjack game",2019-10-18 00:00:00+00:00,132,64,blackjackbreak.com,show
+21293941,"Show HN: Blackjack Break, a minimal quick-play blackjack game",2019-10-18 00:00:00+00:00,132,64,blackjackbreak.com,Show
 21293891,Earth and Sun,2019-10-18 00:00:00+00:00,701,63,ciechanow.ski,
 21293550,Boeing Pilot Warned of ‘Egregious’ Issue with 737 Max in 2016,2019-10-18 00:00:00+00:00,126,42,www.nytimes.com,
 21293544,Remove my password from lists so hackers won't be able to hack me (2017),2019-10-18 00:00:00+00:00,160,55,github.com,
@@ -992,8 +992,8 @@ objectID,title,created_at,points,num_comments,domain,type
 21283994,Cambridge gallery lends art to students 'with none damaged' in 60 years,2019-10-17 00:00:00+00:00,157,51,www.bbc.com,
 21283861,Free for Developers,2019-10-17 00:00:00+00:00,169,12,free-for.dev,
 21283838,The “Windmill” Problem on the 2011 International Mathematical Olympiad [video],2019-10-17 00:00:00+00:00,196,81,www.youtube.com,
-21283791,Which Way Do You Run?,2019-10-17 00:00:00+00:00,188,107,a16z.com,ask
-21282699,Show HN: Magic Sandbox – hands-on Kubernetes training on real infra,2019-10-17 00:00:00+00:00,180,39,msb.com,show
+21283791,Which Way Do You Run?,2019-10-17 00:00:00+00:00,188,107,a16z.com,
+21282699,Show HN: Magic Sandbox – hands-on Kubernetes training on real infra,2019-10-17 00:00:00+00:00,180,39,msb.com,Show
 21282680,DoNotPay app waits on hold for you,2019-10-17 00:00:00+00:00,130,82,techcrunch.com,
 21282647,Haskell in Production,2019-10-17 00:00:00+00:00,200,237,felixmulder.com,
 21282009,OpenBSD 6.6,2019-10-17 00:00:00+00:00,224,89,www.openbsd.org,
